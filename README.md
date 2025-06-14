@@ -3,7 +3,7 @@
 ##  Task Overview
 
 1. **Backend (Node.js + Express):**
-   - Set up a PostgreSQL (or MySQL/MongoDB) database.
+   - Set up a MySQL (or MySQL) database.
    - Created two tables:
      - certificate_categories (Master table)
      - questions (Detail table with foreign key)
