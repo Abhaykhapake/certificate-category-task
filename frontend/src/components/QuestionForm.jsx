@@ -45,7 +45,7 @@ export default function QuestionForm() {
           rows={3}
           required
         />
-        <button className="bg-green-600 text-white px-4 py-2 rounded-md hover:bg-green-700">
+        <button className="bg-blue-600 text-white px-4 py-2 rounded-md hover:hover:bg-blue-800">
           Add Question
         </button>
       </div>

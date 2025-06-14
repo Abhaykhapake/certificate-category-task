@@ -23,7 +23,7 @@ export default function CategoryForm() {
           className="flex-1 p-2 border rounded-md"
           required
         />
-        <button className="bg-blue-600 text-white px-4 py-2 rounded-md hover:bg-blue-700">
+        <button className="bg-blue-600 text-white px-4 py-2 rounded-md hover:bg-blue-800">
           Add
         </button>
       </div>
